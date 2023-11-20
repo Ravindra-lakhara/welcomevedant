@@ -33,7 +33,7 @@
   weight = 50
 
 [[main]]
-  identifier = "twitter"
+  identifier = "twitter "
   pre = "twitter"
   url = "https://twitter.com/_justynot"
   weight = 60
