@@ -5,20 +5,20 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Red Blowfish"
+title = "Vedant Tekale"
 # logo = "img/logo.png"
-description = "My awesome website"
+description = "Welcome To My Web Site"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Red Blowfish"
+  name = "Vedant Tekale"
   image = "img/avatar.png"
-  headline = "This is my website with my links"
-  bio = "A little bit about you"
+  headline = "This is my portfolio website"
+  bio = "I am a passionate cyber security enthusiast "
    links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { x-twitter = "https://twitter.com/burufugu" }
+     { link = "https://vedanttekale20.github.io/welcome/" },
+     { github = "https://github.com/Vedanttekale20/" },
+     { x-twitter = "https://twitter.com/_justynot" }
    ]
