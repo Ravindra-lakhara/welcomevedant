@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://welcome-neon.vercel.app/"
+baseURL = "https://timely-travesseiro-6abbd6.netlify.app/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
